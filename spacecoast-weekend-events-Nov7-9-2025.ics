@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZM Assistant//Weekend Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:46af0ef9-602b-4f2a-a362-c64c7fef65d4@zm-assistant
+SUMMARY:Viera Park Market & Food Trucks (First Friday)
+DTSTART:20251107T210000Z
+DTEND:20251108T010000Z
+LOCATION:Viera Regional Park, 2300 Judge Fran Jamieson Way, Melbourne, FL 32940
+DESCRIPTION:Monthly market with food trucks, produce, and makers. More info: Visit Space Coast listing.
+END:VEVENT
+BEGIN:VEVENT
+UID:333b45a7-a4b6-49e6-8967-e3e787e1fd77@zm-assistant
+SUMMARY:EGAD First Friday Gallery Night Art Walk
+DTSTART:20251107T223000Z
+DTEND:20251108T013000Z
+LOCATION:Eau Gallie Arts District, Highland Ave, Melbourne, FL 32935
+DESCRIPTION:Stroll galleries and pop-up vendors along Highland Ave in EGAD.
+END:VEVENT
+BEGIN:VEVENT
+UID:6f3be02e-4a51-4162-bb40-95fe2d9f67ea@zm-assistant
+SUMMARY:Space Coast Art Festival (Day 1)
+DTSTART:20251108T140000Z
+DTEND:20251108T220000Z
+LOCATION:The Avenue Viera, 2261 Town Center Ave, Melbourne, FL 32940
+DESCRIPTION:60th Annual juried fine art show. Free admission & parking.
+END:VEVENT
+BEGIN:VEVENT
+UID:ecaac56b-d687-4d0e-a86f-6c8491652105@zm-assistant
+SUMMARY:Winter Park Farmers’ Market
+DTSTART:20251108T130000Z
+DTEND:20251108T180000Z
+LOCATION:Central Park West Meadow, New York Ave & Morse Blvd, Winter Park, FL
+DESCRIPTION:Weekly market with produce, plants, baked goods & more.
+END:VEVENT
+BEGIN:VEVENT
+UID:5206fd56-ac10-4129-af7c-299f8a13a781@zm-assistant
+SUMMARY:Space Coast Art Festival (Day 2)
+DTSTART:20251109T150000Z
+DTEND:20251109T210000Z
+LOCATION:The Avenue Viera, 2261 Town Center Ave, Melbourne, FL 32940
+DESCRIPTION:60th Annual juried fine art show. Free admission & parking.
+END:VEVENT
+BEGIN:VEVENT
+UID:6f21149f-dd98-4ab1-b10b-0de53e91d916@zm-assistant
+SUMMARY:Orlando Farmers Market (Lake Eola)
+DTSTART:20251109T150000Z
+DTEND:20251109T200000Z
+LOCATION:Lake Eola Park, E Central Blvd & N Eola Dr, Orlando, FL
+DESCRIPTION:Weekly market at Lake Eola Park with produce, crafts, and food stalls.
+END:VEVENT
+BEGIN:VEVENT
+UID:0d643a45-dda5-4afd-8249-57cd6f326ae4@zm-assistant
+SUMMARY:Intracoastal Sunday Market
+DTSTART:20251109T170000Z
+DTEND:20251109T210000Z
+LOCATION:Intracoastal Brewing Company, 652 W Eau Gallie Blvd, Melbourne, FL 32935
+DESCRIPTION:Local vendors + live tunes in the beer garden.
+END:VEVENT
+BEGIN:VEVENT
+UID:348b5500-2c0b-472c-8f43-69c5d7e49f23@zm-assistant
+SUMMARY:Sanford Food Truck Fiesta (2nd Sunday)
+DTSTART:20251109T180000Z
+DTEND:20251109T230000Z
+LOCATION:Historic Downtown Sanford — West End Trading Co., 202 Sanford Ave, Sanford, FL 32771
+DESCRIPTION:40+ food trucks, live music, artisans; free admission & parking.
+END:VEVENT
+END:VCALENDAR
